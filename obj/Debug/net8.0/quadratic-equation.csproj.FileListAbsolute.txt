@@ -1,0 +1,15 @@
+C:\code\quadratic-equation\bin\Debug\net8.0\quadratic-equation.exe
+C:\code\quadratic-equation\bin\Debug\net8.0\quadratic-equation.deps.json
+C:\code\quadratic-equation\bin\Debug\net8.0\quadratic-equation.runtimeconfig.json
+C:\code\quadratic-equation\bin\Debug\net8.0\quadratic-equation.dll
+C:\code\quadratic-equation\bin\Debug\net8.0\quadratic-equation.pdb
+C:\code\quadratic-equation\obj\Debug\net8.0\quadratic-equation.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\quadratic-equation\obj\Debug\net8.0\quadratic-equation.AssemblyInfoInputs.cache
+C:\code\quadratic-equation\obj\Debug\net8.0\quadratic-equation.AssemblyInfo.cs
+C:\code\quadratic-equation\obj\Debug\net8.0\quadratic-equation.csproj.CoreCompileInputs.cache
+C:\code\quadratic-equation\obj\Debug\net8.0\quadratic-equation.sourcelink.json
+C:\code\quadratic-equation\obj\Debug\net8.0\quadratic-equation.dll
+C:\code\quadratic-equation\obj\Debug\net8.0\refint\quadratic-equation.dll
+C:\code\quadratic-equation\obj\Debug\net8.0\quadratic-equation.pdb
+C:\code\quadratic-equation\obj\Debug\net8.0\quadratic-equation.genruntimeconfig.cache
+C:\code\quadratic-equation\obj\Debug\net8.0\ref\quadratic-equation.dll
